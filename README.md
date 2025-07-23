@@ -8,8 +8,6 @@
 > **🤖 Advanced Multi-Agent System for Pharmaceutical Analysis**  
 > Leveraging CAMEL AI framework with intelligent search coordination to provide comprehensive medication guidance through specialized AI agents.
 
-![MedForce AI Architecture](https://via.placeholder.com/800x400/667eea/ffffff?text=MedForce+AI+System+Architecture)
-
 ---
 
 ## 🌟 **Key Features**
