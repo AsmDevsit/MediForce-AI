@@ -1,0 +1,6 @@
+camel-ai @ git+https://github.com/lightaime/camel.git
+streamlit
+mistralai
+python-dotenv
+duckduckgo-search
+requests
