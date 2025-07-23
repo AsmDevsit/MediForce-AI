@@ -307,36 +307,6 @@ print(result['status'])  # 'success' or 'error'
 
 ---
 
-## 📞 **Support**
-
-### Getting Help
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/medforce-ai/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/medforce-ai/discussions)
-- **Documentation**: Check this README and code comments
-
-### Common Issues
-
-#### API Key Issues
-```bash
-# Verify API key is set
-python -c "import os; print('MISTRAL_API_KEY' in os.environ)"
-```
-
-#### Search Tool Issues
-```bash
-# Test search functionality
-python -c "from camel.toolkits import SearchToolkit; print(SearchToolkit().get_tools())"
-```
-
-#### Agent Coordination Issues
-```bash
-# Check agent registry
-python -c "from agents import get_all_agents; print(list(get_all_agents().keys()))"
-```
-
----
-
 ## 📜 **License**
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
